@@ -1,9 +1,0 @@
-Mensajes de commit sugeridos (en español), para usar en el orden indicado:
-
-1) chore: inicializa ProyectoSigma con estructura Maven y Servlet
-2) feat: añade capa de negocio con presets LoL y pairing básico
-3) feat: incorpora simulación BO3 y selector de tipo de clasificación
-4) feat: exportación a CSV de resultados simulados
-5) ui: rediseño Bootstrap (tema oscuro), cards y badges
-6) refactor: nombres claros en español y comentarios
-7) docs: README con instrucciones de compilación y despliegue
