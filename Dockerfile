@@ -25,4 +25,4 @@ EXPOSE 8080
 
 # Importante: usar $PORT de Render y servir el WAR en "/"
 # Usamos shell para que se expanda $PORT
-CMD ["sh","-c","java -jar webapp-runner.jar --port $PORT --path / ProyectoSigma.war"]
+CMD ["sh","-c","java -Djava.io.tmpdir=/tmp -Djava.awt.headless=true -Dorg.apache.jasper.compiler.disablejsr199=true -jar webapp-runner.jar --port $PORT --path / --expand-war ProyectoSigma.war"]
