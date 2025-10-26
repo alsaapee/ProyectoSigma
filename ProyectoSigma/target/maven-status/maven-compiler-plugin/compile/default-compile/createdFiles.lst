@@ -1,0 +1,10 @@
+com\proyectosigma\teams\business\AuthService.class
+com\proyectosigma\teams\business\RankingService.class
+com\proyectosigma\teams\business\TeamService.class
+com\proyectosigma\teams\business\TeamService$PairingResult.class
+com\proyectosigma\teams\web\AuthServlet.class
+com\proyectosigma\teams\model\Pairing.class
+com\proyectosigma\teams\model\MatchResult.class
+com\proyectosigma\teams\web\AuthFilter.class
+com\proyectosigma\teams\model\TournamentType.class
+com\proyectosigma\teams\web\TeamServlet.class
